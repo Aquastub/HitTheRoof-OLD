@@ -9,7 +9,7 @@ if (scene >= 0)
 	}
 	else if (showtext && (keyboard_check_pressed(global.key_slap) || gamepad_button_check_pressed(obj_inputAssigner.player_input_device[0], global.key_slapC)))
 	{
-		room_goto(Mainmenu);
+		room_goto(Realtitlescreen);
 		exit;
 	}
 }
@@ -596,7 +596,7 @@ switch (scene)
 				deccel = 0.1;
 				color = c_white;
 			}
-			room_goto(Mainmenu);
+			room_goto(Realtitlescreen);
 		}
 		break;
 }

@@ -63,6 +63,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Chateau","folderPath":"folders/Rooms/Levels/Chateau.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Dungeon","folderPath":"folders/Rooms/Levels/Dungeon.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Entrance","folderPath":"folders/Rooms/Levels/Entrance.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Fantasy","folderPath":"folders/Rooms/Levels/Fantasy.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Farm","folderPath":"folders/Rooms/Levels/Farm.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Forest","folderPath":"folders/Rooms/Levels/Forest.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Freezer","folderPath":"folders/Rooms/Levels/Freezer.yy",},
@@ -409,7 +410,6 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Unused","folderPath":"folders/Tile Sets/Unused.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"War","folderPath":"folders/Tile Sets/War.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Fantasy","folderPath":"folders/Rooms/Levels/Fantasy.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"credits.txt","CopyToMask":-1,"filePath":"datafiles",},
@@ -3947,6 +3947,7 @@
     {"id":{"name":"spr_playerN_supertaunt1","path":"sprites/spr_playerN_supertaunt1/spr_playerN_supertaunt1.yy",},},
     {"id":{"name":"spr_chateaucandle","path":"sprites/spr_chateaucandle/spr_chateaucandle.yy",},},
     {"id":{"name":"spr_achievement_bosses","path":"sprites/spr_achievement_bosses/spr_achievement_bosses.yy",},},
+    {"id":{"name":"fantasy_2","path":"rooms/fantasy_2/fantasy_2.yy",},},
     {"id":{"name":"spr_player_ghostdashup","path":"sprites/spr_player_ghostdashup/spr_player_ghostdashup.yy",},},
     {"id":{"name":"spr_playerN_supertaunt2","path":"sprites/spr_playerN_supertaunt2/spr_playerN_supertaunt2.yy",},},
     {"id":{"name":"spr_playerN_supertaunt3","path":"sprites/spr_playerN_supertaunt3/spr_playerN_supertaunt3.yy",},},
@@ -8033,6 +8034,7 @@
     {"roomId":{"name":"sewer_1","path":"rooms/sewer_1/sewer_1.yy",},},
     {"roomId":{"name":"industrial_5","path":"rooms/industrial_5/industrial_5.yy",},},
     {"roomId":{"name":"fantasy_1","path":"rooms/fantasy_1/fantasy_1.yy",},},
+    {"roomId":{"name":"fantasy_2","path":"rooms/fantasy_2/fantasy_2.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":false,"loadType":"default","mipsToGenerate":0,"targets":-1,},

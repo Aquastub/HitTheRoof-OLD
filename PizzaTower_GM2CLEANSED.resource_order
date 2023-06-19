@@ -40,6 +40,7 @@
     {"name":"Badland","order":5,"path":"folders/Rooms/Levels/Badland.yy",},
     {"name":"Chateau","order":17,"path":"folders/Rooms/Levels/Chateau.yy",},
     {"name":"Dungeon","order":4,"path":"folders/Rooms/Levels/Dungeon.yy",},
+    {"name":"Fantasy","order":20,"path":"folders/Rooms/Levels/Fantasy.yy",},
     {"name":"Farm","order":6,"path":"folders/Rooms/Levels/Farm.yy",},
     {"name":"Forest","order":9,"path":"folders/Rooms/Levels/Forest.yy",},
     {"name":"Freezer","order":14,"path":"folders/Rooms/Levels/Freezer.yy",},
@@ -349,7 +350,6 @@
     {"name":"Unused","order":24,"path":"folders/Tile Sets/Unused.yy",},
     {"name":"War","order":22,"path":"folders/Tile Sets/War.yy",},
     {"name":"Timelines","order":7,"path":"folders/Timelines.yy",},
-    {"name":"Fantasy","order":20,"path":"folders/Rooms/Levels/Fantasy.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_bossdoor","order":10,"path":"objects/obj_bossdoor/obj_bossdoor.yy",},
@@ -3733,6 +3733,7 @@
     {"name":"spr_playerN_weeniemount","order":12,"path":"sprites/spr_playerN_weeniemount/spr_playerN_weeniemount.yy",},
     {"name":"spr_playerN_supertaunt1","order":13,"path":"sprites/spr_playerN_supertaunt1/spr_playerN_supertaunt1.yy",},
     {"name":"spr_chateaucandle","order":15,"path":"sprites/spr_chateaucandle/spr_chateaucandle.yy",},
+    {"name":"fantasy_2","order":1,"path":"rooms/fantasy_2/fantasy_2.yy",},
     {"name":"spr_player_ghostdashup","order":4,"path":"sprites/spr_player_ghostdashup/spr_player_ghostdashup.yy",},
     {"name":"spr_playerN_supertaunt2","order":14,"path":"sprites/spr_playerN_supertaunt2/spr_playerN_supertaunt2.yy",},
     {"name":"spr_playerN_supertaunt3","order":15,"path":"sprites/spr_playerN_supertaunt3/spr_playerN_supertaunt3.yy",},
