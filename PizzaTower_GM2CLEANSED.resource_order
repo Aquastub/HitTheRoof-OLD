@@ -262,6 +262,7 @@
     {"name":"Warps","order":3,"path":"folders/Sprites/Level Structure/Warps.yy",},
     {"name":"Secret Portal","order":1,"path":"folders/Sprites/Level Structure/Warps/Secret Portal.yy",},
     {"name":"Player","order":2,"path":"folders/Sprites/Player.yy",},
+    {"name":"Anton","order":13,"path":"folders/Sprites/Player/Anton.yy",},
     {"name":"Gustavo","order":5,"path":"folders/Sprites/Player/Gustavo.yy",},
     {"name":"Noise","order":3,"path":"folders/Sprites/Player/Noise.yy",},
     {"name":"Bomb","order":1,"path":"folders/Sprites/Player/Noise/Bomb.yy",},
@@ -350,7 +351,6 @@
     {"name":"Unused","order":24,"path":"folders/Tile Sets/Unused.yy",},
     {"name":"War","order":22,"path":"folders/Tile Sets/War.yy",},
     {"name":"Timelines","order":7,"path":"folders/Timelines.yy",},
-    {"name":"Anton","order":13,"path":"folders/Sprites/Player/Anton.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_bossdoor","order":10,"path":"objects/obj_bossdoor/obj_bossdoor.yy",},
