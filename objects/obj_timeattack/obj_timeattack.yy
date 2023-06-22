@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_inv",
-    "path": "sprites/spr_inv/spr_inv.yy",
+    "name": "spr_clockcollectible1",
+    "path": "sprites/spr_clockcollectible1/spr_clockcollectible1.yy",
   },
   "spriteMaskId": null,
   "visible": false,
