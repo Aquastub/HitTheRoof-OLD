@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "spr_antonpalette",
-  "bbox_bottom": 10,
+  "name": "spr_pizzaarcade",
+  "bbox_bottom": 640,
   "bbox_left": 0,
-  "bbox_right": 1,
+  "bbox_right": 961,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,26 +13,26 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b6fe52c8-7e59-447a-9762-07c796021cc9",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3f7f60e1-99ca-4669-8485-4795fa94de97",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 11,
+  "height": 641,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"2f8baeea-718e-488c-809e-16eadddf5e77","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"7c84fd6d-db11-4b00-a918-23866ada0e44","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Anton",
-    "path": "folders/Sprites/MegamixedTower/Player/Anton.yy",
+    "name": "Cutscene",
+    "path": "folders/Sprites/MegamixedTower/Cutscene.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "spr_antonpalette",
+    "name": "spr_pizzaarcade",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"b6fe52c8-7e59-447a-9762-07c796021cc9","path":"sprites/spr_antonpalette/spr_antonpalette.yy",},},},"Disabled":false,"id":"24ed6242-d47c-4750-8c9c-0927779c446d","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"3f7f60e1-99ca-4669-8485-4795fa94de97","path":"sprites/spr_pizzaarcade/spr_pizzaarcade.yy",},},},"Disabled":false,"id":"df7629f7-4177-433f-a887-4ac8cbfb0059","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 2,
+  "width": 962,
 }

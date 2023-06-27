@@ -438,5 +438,5 @@ if (global.longintro)
 	room_goto(Longintro);
 }
 else
-	room_goto(Realtitlescreen);
+	room_goto(Mainmenu);
 instance_destroy(obj_cutscene_handler);
