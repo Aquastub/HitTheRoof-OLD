@@ -28,7 +28,7 @@
   ],
   "parent": {
     "name": "Fantasy",
-    "path": "folders/Rooms/MegamixedTower/Levels/Fantasy.yy",
+    "path": "folders/Rooms/Levels/Fantasy.yy",
   },
   "parentRoom": null,
   "physicsSettings": {
