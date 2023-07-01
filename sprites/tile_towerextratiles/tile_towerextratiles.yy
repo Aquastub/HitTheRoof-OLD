@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "tile_towerextratiles",
-  "bbox_bottom": 1583,
+  "bbox_bottom": 1663,
   "bbox_left": 0,
-  "bbox_right": 1547,
+  "bbox_right": 1151,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d9b88ac3-8afe-42f6-9fe5-39e66f475056",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c4c04716-5eeb-4063-826c-2e116cff4b62",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 1584,
+  "height": 1696,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"83b282db-15e2-4775-863a-64615cb18122","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"b526fd73-6011-438c-909c-0b2b9df85cf2","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"d9b88ac3-8afe-42f6-9fe5-39e66f475056","path":"sprites/tile_towerextratiles/tile_towerextratiles.yy",},},},"Disabled":false,"id":"488a3dd9-0413-420f-93cb-4d32ede37595","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"c4c04716-5eeb-4063-826c-2e116cff4b62","path":"sprites/tile_towerextratiles/tile_towerextratiles.yy",},},},"Disabled":false,"id":"53532e5f-9077-4444-8df1-f747d29f0b2c","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 1548,
+  "width": 1152,
 }
