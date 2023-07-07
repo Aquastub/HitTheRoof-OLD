@@ -31,7 +31,7 @@
   "origin": 9,
   "parent": {
     "name": "Antigrav",
-    "path": "folders/Sprites/Level Structure/Antigrav.yy",
+    "path": "folders/Sprites/Antigrav.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
