@@ -1,7 +1,7 @@
 {
   "resourceType": "GMTileSet",
   "resourceVersion": "1.0",
-  "name": "TileSet149",
+  "name": "tileset_entryway_1",
   "autoTileSets": [],
   "macroPageTiles": {
     "SerialiseHeight": 0,
