@@ -79,7 +79,7 @@
   "origin": 0,
   "parent": {
     "name": "Anton",
-    "path": "folders/Sprites/Player/Anton.yy",
+    "path": "folders/Sprites/MegamixedTower/Player/Anton.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
