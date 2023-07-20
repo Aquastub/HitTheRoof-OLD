@@ -29,11 +29,11 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4CA188E6","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_snicklevelend","path":"objects/obj_snicklevelend/obj_snicklevelend.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":702.0,"y":369.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_1","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":17,"SerialiseWidth":30,"TileCompressedData":[
-1,67,-28,77,-2,67,2,77,55,-24,65,6,55,77,67,67,77,56,-24,0,6,54,77,67,67,77,56,-24,0,6,
-54,77,67,67,77,56,-24,0,6,54,77,67,67,77,56,-24,0,6,54,77,67,67,77,56,-24,0,6,54,77,67,
-67,77,56,-24,0,6,54,77,67,67,77,56,-24,0,6,54,77,67,67,77,56,-24,0,6,54,77,67,67,77,56,
--24,0,6,54,77,67,67,77,56,-24,0,6,54,77,67,67,77,56,-24,0,6,54,77,67,67,77,55,-24,45,4,
-55,77,67,67,-28,77,-61,67,],"TileDataFormat":1,},"tilesetId":{"name":"tile_tower_tileset","path":"tilesets/tile_tower_tileset/tile_tower_tileset.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
+1,87,-28,107,-2,87,2,107,24,-24,25,6,26,107,87,87,107,44,-24,0,6,46,107,87,87,107,44,-24,0,6,
+46,107,87,87,107,44,-24,0,6,46,107,87,87,107,44,-24,0,6,46,107,87,87,107,44,-24,0,6,46,107,87,
+87,107,44,-24,0,6,46,107,87,87,107,44,-24,0,6,46,107,87,87,107,44,-24,0,6,46,107,87,87,107,44,
+-24,0,6,46,107,87,87,107,44,-24,0,6,46,107,87,87,107,44,-24,0,6,46,107,87,87,107,64,-24,65,4,
+66,107,87,87,-28,107,-61,87,],"TileDataFormat":1,},"tilesetId":{"name":"tileset_entrance","path":"tilesets/tileset_entrance/tileset_entrance.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Backgrounds_1","animationFPS":15.0,"animationSpeedType":0,"colour":4294967295,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":{"name":"bg_tower","path":"sprites/bg_tower/bg_tower.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":true,"x":0,"y":0,},
   ],
   "parent": {

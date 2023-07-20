@@ -32,7 +32,7 @@
   "origin": 4,
   "parent": {
     "name": "Smore Knight",
-    "path": "folders/Sprites/MegamixedTower/Sugary Spire/Baddie/Smore Knight.yy",
+    "path": "folders/Sprites/Sugary Spire/Baddie/Smore Knight.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

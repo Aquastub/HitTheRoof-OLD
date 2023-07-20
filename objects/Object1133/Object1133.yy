@@ -7,7 +7,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Sugary Spire",
-    "path": "folders/Tile Sets/MegamixedTower/Sugary Spire.yy",
+    "path": "folders/Tile Sets/Sugary Spire.yy",
   },
   "parentObjectId": null,
   "persistent": false,

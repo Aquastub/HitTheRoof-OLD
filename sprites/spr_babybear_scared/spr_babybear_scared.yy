@@ -28,7 +28,7 @@
   "origin": 4,
   "parent": {
     "name": "Baby Bear",
-    "path": "folders/Sprites/MegamixedTower/Sugary Spire/Baddie/Baby Bear.yy",
+    "path": "folders/Sprites/Sugary Spire/Baddie/Baby Bear.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

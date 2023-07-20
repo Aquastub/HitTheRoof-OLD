@@ -13,7 +13,7 @@
   "out_tilevborder": 2,
   "parent": {
     "name": "Sugary Spire",
-    "path": "folders/Tile Sets/MegamixedTower/Sugary Spire.yy",
+    "path": "folders/Tile Sets/Sugary Spire.yy",
   },
   "spriteId": {
     "name": "tile_entryway1",
