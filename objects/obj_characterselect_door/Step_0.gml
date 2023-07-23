@@ -51,7 +51,7 @@ if (started > 0)
                 }
                 if (other.char == 3)
                 {
-                    character = "S"
+                    character = "OP"
                     ispeppino = 1
                 }
                 machreset = 1

@@ -15,7 +15,7 @@ if (other.key_up && other.grounded && started == 0 && (!global.panic))
             other.char = 1
         if (character == "V")
             other.char = 2
-        if (character == "S")
+        if (character == "OP")
             other.char = 3
         sprite_index = spr_lookdoor
         image_index = 0

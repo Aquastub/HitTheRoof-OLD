@@ -12,8 +12,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Some Mod Stuff",
+    "path": "folders/Objects/HitTheRoof/Some Mod Stuff.yy",
   },
   "parentObjectId": null,
   "persistent": false,

@@ -10,7 +10,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Blocks",
-    "path": "folders/Objects/MegamixedTower/Blocks.yy",
+    "path": "folders/Objects/HitTheRoof/Blocks.yy",
   },
   "parentObjectId": {
     "name": "obj_destroyable",

@@ -11,6 +11,6 @@ index = 0
 index2 = 0
 choosed = 0
 palspr = spr_peppalette
-headspr = spr_pepinoHUD
-shirtspr = spr_palettedresserdebris_pep
+playerspr = spr_player_idle
+shirtspr = spr_palettedresserdebris
 scr_init_input()

@@ -11,7 +11,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Baddie",
-    "path": "folders/Objects/MegamixedTower/Sugary Spire/Baddie.yy",
+    "path": "folders/Objects/HitTheRoof/Sugary Spire/Baddie.yy",
   },
   "parentObjectId": {
     "name": "obj_baddie",

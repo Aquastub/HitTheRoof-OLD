@@ -1,10 +1,9 @@
 index += 0.35
 index2 += 0.1
 var yedit = 0
-var name = "PEPPINO"
-var color = c_white
+var name = "Peppino"
 var charlett = "P"
-var desc = "Stuffing the Crust"
+var desc = "Your pizza should hit the ceiling, NOW!"
 if dodraw
 {
     scr_getinput()
@@ -15,41 +14,37 @@ if dodraw
     key_back = (keyboard_check_pressed(vk_escape) || keyboard_check_pressed(vk_return) || gamepad_button_check_pressed(obj_inputAssigner.player_input_device[0], gp_face2) || gamepad_button_check_pressed(obj_inputAssigner.player_input_device[0], gp_start))
     if (char == 0)
     {
-        headspr = spr_pepinoHUD
+        playerspr = spr_player_idle
         palspr = spr_peppalette
-        shirtspr = spr_palettedresserdebris_pep
-        color = c_white
-        name = "playername_P"
-        desc = "playerdesc_P"
+        shirtspr = spr_palettedresserdebris
+        name = "Peppino"
+        desc = "The main protagonist of Pizza Tower."
     }
     if (char == 1)
     {
-        headspr = spr_noiseHUD_idle
+        playerspr = spr_playerN_idle
         palspr = spr_noisepalette
-        shirtspr = spr_palettedresserdebris_noise
-        color = 0x1888D8
-        name = "playername_N"
-        desc = "playerdesc_N"
+        shirtspr = spr_palettedresserdebris
+        name = "The Noise"
+        desc = "The noisiest guy that has ever existed in Pizza Tower."
     }
     if (char == 2)
     {
         yedit -= 12
-        headspr = spr_playerV_normalHUD
-        palspr = spr_vigipalette
-        shirtspr = spr_palettedresserdebris_vigi
-        color = 0x80E0F8
-        name = "playername_V"
-        desc = "playerdesc_V"
+        playerspr = spr_playerV_idle
+        palspr = spr_bossfight_vigipalette
+        shirtspr = spr_palettedresserdebris
+        name = "The Vigilante"
+        desc = "The sheriff of the Western District in the Pizza Tower."
     }
     if (char == 3)
     {
         yedit -= 8
-        headspr = spr_snickHUD
-        palspr = spr_snickpalette
-        shirtspr = spr_palettedresserdebris_snick
-        color = 0xF85098
-        name = "playername_S"
-        desc = "playerdesc_S"
+        playerspr = spr_playerOP_idle
+        palspr = spr_peppalette
+        shirtspr = spr_palettedresserdebris
+        name = "Opa-Opa"
+        desc = "The protector of the Fantasy Zone in the Pizza Tower."
     }
     if (-obj_player1.key_left2)
     {

@@ -11,6 +11,6 @@ with (obj_player)
         other.char = 1
     if (character == "V")
         other.char = 2
-    if (character == "S")
+    if (character == "OP")
         other.char = 3
 }
