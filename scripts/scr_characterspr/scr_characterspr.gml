@@ -811,10 +811,10 @@ function scr_characterspr()
 		spr_palette = spr_peppalette;
 		paletteselect = 1;
 	}
-		if (character == "OP")
+	if (character == "OP")
 	{
-		spr_idle = spr_playerV_idle;
-		spr_move = spr_playerV_move;
+		spr_idle = spr_playerOP_idle;
+		spr_move = spr_playerOP_move;
 		spr_crawl = spr_playerV_crouchmove;
 		spr_idle = spr_playerV_idle;
 		spr_hurt = spr_playerV_hurt;
