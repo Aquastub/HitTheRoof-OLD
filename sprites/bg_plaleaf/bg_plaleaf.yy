@@ -26,7 +26,7 @@
   "origin": 0,
   "parent": {
     "name": "The Fantasy Zone",
-    "path": "folders/Sprites/MegamixedTower/Backgrounds/The Fantasy Zone.yy",
+    "path": "folders/Sprites/HitTheRoof/Backgrounds/The Fantasy Zone.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

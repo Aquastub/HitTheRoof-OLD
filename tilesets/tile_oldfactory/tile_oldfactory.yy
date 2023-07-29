@@ -13,7 +13,7 @@
   "out_tilevborder": 2,
   "parent": {
     "name": "Old Factory",
-    "path": "folders/Tile Sets/MegamixedTower/Old Factory.yy",
+    "path": "folders/Tile Sets/HitTheRoof/Old Factory.yy",
   },
   "spriteId": {
     "name": "spr_oldfactorytiles",

@@ -26,7 +26,7 @@
   "origin": 0,
   "parent": {
     "name": "Old Medieval",
-    "path": "folders/Sprites/MegamixedTower/Tilesets/Old Medieval.yy",
+    "path": "folders/Sprites/HitTheRoof/Tilesets/Old Medieval.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

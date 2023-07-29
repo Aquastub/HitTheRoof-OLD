@@ -1,7 +1,7 @@
 {
   "resourceType": "GMTileSet",
   "resourceVersion": "1.0",
-  "name": "TileSet154",
+  "name": "tile_rematchmedieval1",
   "autoTileSets": [],
   "macroPageTiles": {
     "SerialiseHeight": 0,
@@ -13,7 +13,7 @@
   "out_tilevborder": 2,
   "parent": {
     "name": "Snicked Medieval",
-    "path": "folders/Tile Sets/MegamixedTower/Snicked Medieval.yy",
+    "path": "folders/Tile Sets/HitTheRoof/Snicked Medieval.yy",
   },
   "spriteId": {
     "name": "spr_rematchmedieval1tiles",

@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "MegamixedTower",
-    "path": "folders/Sprites/MegamixedTower.yy",
+    "name": "HitTheRoof",
+    "path": "folders/Sprites/HitTheRoof.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

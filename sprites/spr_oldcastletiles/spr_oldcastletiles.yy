@@ -26,7 +26,7 @@
   "origin": 0,
   "parent": {
     "name": "Old Mansion",
-    "path": "folders/Sprites/MegamixedTower/Tilesets/Old Mansion.yy",
+    "path": "folders/Sprites/HitTheRoof/Tilesets/Old Mansion.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

@@ -26,7 +26,7 @@
   "origin": 0,
   "parent": {
     "name": "Grinch",
-    "path": "folders/Sprites/MegamixedTower/Tilesets/Grinch.yy",
+    "path": "folders/Sprites/HitTheRoof/Tilesets/Grinch.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

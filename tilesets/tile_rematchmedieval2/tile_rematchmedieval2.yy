@@ -1,7 +1,7 @@
 {
   "resourceType": "GMTileSet",
   "resourceVersion": "1.0",
-  "name": "TileSet153",
+  "name": "tile_rematchmedieval2",
   "autoTileSets": [],
   "macroPageTiles": {
     "SerialiseHeight": 0,
@@ -12,12 +12,12 @@
   "out_tilehborder": 2,
   "out_tilevborder": 2,
   "parent": {
-    "name": "Old Medieval",
-    "path": "folders/Tile Sets/HitTheRoof/Old Medieval.yy",
+    "name": "Snicked Medieval",
+    "path": "folders/Tile Sets/HitTheRoof/Snicked Medieval.yy",
   },
   "spriteId": {
-    "name": "spr_oldmedieval1tiles",
-    "path": "sprites/spr_oldmedieval1tiles/spr_oldmedieval1tiles.yy",
+    "name": "spr_rematchmedieval2tiles",
+    "path": "sprites/spr_rematchmedieval2tiles/spr_rematchmedieval2tiles.yy",
   },
   "spriteNoExport": true,
   "textureGroupId": {

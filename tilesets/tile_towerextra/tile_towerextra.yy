@@ -176,7 +176,7 @@
   "out_tilevborder": 2,
   "parent": {
     "name": "Tower and Hub",
-    "path": "folders/Tile Sets/MegamixedTower/Tower and Hub.yy",
+    "path": "folders/Tile Sets/HitTheRoof/Tower and Hub.yy",
   },
   "spriteId": {
     "name": "spr_towerextratiles",

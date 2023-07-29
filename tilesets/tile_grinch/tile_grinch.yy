@@ -13,7 +13,7 @@
   "out_tilevborder": 2,
   "parent": {
     "name": "Grinch",
-    "path": "folders/Tile Sets/MegamixedTower/Grinch.yy",
+    "path": "folders/Tile Sets/HitTheRoof/Grinch.yy",
   },
   "spriteId": {
     "name": "spr_grinchtiles",

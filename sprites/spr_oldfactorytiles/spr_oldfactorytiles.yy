@@ -26,7 +26,7 @@
   "origin": 0,
   "parent": {
     "name": "Old Factory",
-    "path": "folders/Sprites/MegamixedTower/Tilesets/Old Factory.yy",
+    "path": "folders/Sprites/HitTheRoof/Tilesets/Old Factory.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

@@ -26,7 +26,7 @@
   "origin": 0,
   "parent": {
     "name": "Opa-Opa",
-    "path": "folders/Sprites/MegamixedTower/Player/Opa-Opa.yy",
+    "path": "folders/Sprites/HitTheRoof/Player/Opa-Opa.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

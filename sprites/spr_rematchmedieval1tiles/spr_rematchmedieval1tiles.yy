@@ -26,7 +26,7 @@
   "origin": 0,
   "parent": {
     "name": "Snicked Medieval",
-    "path": "folders/Sprites/MegamixedTower/Tilesets/Snicked Medieval.yy",
+    "path": "folders/Sprites/HitTheRoof/Tilesets/Snicked Medieval.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

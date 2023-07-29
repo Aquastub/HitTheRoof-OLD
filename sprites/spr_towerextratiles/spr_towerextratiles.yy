@@ -26,7 +26,7 @@
   "origin": 0,
   "parent": {
     "name": "Tower",
-    "path": "folders/Sprites/MegamixedTower/Tilesets/Tower.yy",
+    "path": "folders/Sprites/HitTheRoof/Tilesets/Tower.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
