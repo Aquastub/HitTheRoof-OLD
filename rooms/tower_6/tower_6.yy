@@ -81,7 +81,7 @@
   ],
   "parent": {
     "name": "Tower",
-    "path": "folders/Rooms/MegamixedTower/Tower.yy",
+    "path": "folders/Rooms/HitTheRoof/Tower.yy",
   },
   "parentRoom": null,
   "physicsSettings": {

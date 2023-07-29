@@ -3,7 +3,7 @@ index2 += 0.1
 var yedit = 0
 var name = "Peppino"
 var charlett = "P"
-var desc = "Your pizza should hit the ceiling, NOW!"
+var desc = "Your pizza should hit the ceiling... NOW!"
 if dodraw
 {
     scr_getinput()

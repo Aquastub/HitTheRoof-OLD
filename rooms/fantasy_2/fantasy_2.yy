@@ -75,7 +75,7 @@
   ],
   "parent": {
     "name": "The Fantasy Zone",
-    "path": "folders/Rooms/MegamixedTower/Levels/The Fantasy Zone.yy",
+    "path": "folders/Rooms/HitTheRoof/Levels/The Fantasy Zone.yy",
   },
   "parentRoom": null,
   "physicsSettings": {
