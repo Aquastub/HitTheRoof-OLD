@@ -26,7 +26,7 @@
   "origin": 4,
   "parent": {
     "name": "Smore Knight",
-    "path": "folders/Sprites/Sugary Spire/Baddie/Smore Knight.yy",
+    "path": "folders/Sprites/HitTheRoof/Sugary Spire/Baddie/Smore Knight.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

@@ -26,7 +26,7 @@
   "origin": 0,
   "parent": {
     "name": "Tilesets",
-    "path": "folders/Sprites/Sugary Spire/Tilesets.yy",
+    "path": "folders/Sprites/HitTheRoof/Sugary Spire/Tilesets.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
