@@ -33,7 +33,7 @@
   "origin": 4,
   "parent": {
     "name": "Gumslime",
-    "path": "folders/Sprites/HitTheRoof/Sugary Spire/Baddie/Gumslime.yy",
+    "path": "folders/Sprites/Sugary Spire/Baddie/Gumslime.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
