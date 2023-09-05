@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Snicked Medieval",
-    "path": "folders/Sprites/HitTheRoof/Tilesets/Snicked Medieval.yy",
+    "name": "Pizzasnick",
+    "path": "folders/Sprites/HitTheRoof/Tilesets/Snick's Rematch 2.0/Pizzasnick.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
