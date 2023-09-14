@@ -472,7 +472,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.6.0.92",
+    "IDEVersion": "2023.8.0.98",
   },
   "resources": [
     {"id":{"name":"obj_bossdoor","path":"objects/obj_bossdoor/obj_bossdoor.yy",},},
@@ -6737,6 +6737,7 @@
     {"id":{"name":"spr_pizzasona43throw","path":"sprites/spr_pizzasona43throw/spr_pizzasona43throw.yy",},},
     {"id":{"name":"spr_holdjumpbounce","path":"sprites/spr_holdjumpbounce/spr_holdjumpbounce.yy",},},
     {"id":{"name":"spr_sticktrash","path":"sprites/spr_sticktrash/spr_sticktrash.yy",},},
+    {"id":{"name":"ruinsnick_4b","path":"rooms/ruinsnick_4b/ruinsnick_4b.yy",},},
     {"id":{"name":"spr_groundpoundjump_effect","path":"sprites/spr_groundpoundjump_effect/spr_groundpoundjump_effect.yy",},},
     {"id":{"name":"spr_gusbrickcloud","path":"sprites/spr_gusbrickcloud/spr_gusbrickcloud.yy",},},
     {"id":{"name":"bg_pizzaface_p3_sky1","path":"sprites/bg_pizzaface_p3_sky1/bg_pizzaface_p3_sky1.yy",},},
@@ -8220,7 +8221,9 @@
     {"roomId":{"name":"ruinsnick_2","path":"rooms/ruinsnick_2/ruinsnick_2.yy",},},
     {"roomId":{"name":"ruinsnick_3","path":"rooms/ruinsnick_3/ruinsnick_3.yy",},},
     {"roomId":{"name":"ruinsnick_3b","path":"rooms/ruinsnick_3b/ruinsnick_3b.yy",},},
+    {"roomId":{"name":"ruinsnick_4b","path":"rooms/ruinsnick_4b/ruinsnick_4b.yy",},},
   ],
+  "templateType": null,
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":false,"loadType":"default","mipsToGenerate":0,"targets":-1,},
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"backgroundgroup","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},

@@ -6373,6 +6373,7 @@
     {"name":"spr_pizzasona43throw","order":134,"path":"sprites/spr_pizzasona43throw/spr_pizzasona43throw.yy",},
     {"name":"spr_holdjumpbounce","order":142,"path":"sprites/spr_holdjumpbounce/spr_holdjumpbounce.yy",},
     {"name":"spr_sticktrash","order":14,"path":"sprites/spr_sticktrash/spr_sticktrash.yy",},
+    {"name":"ruinsnick_4b","order":4,"path":"rooms/ruinsnick_4b/ruinsnick_4b.yy",},
     {"name":"spr_groundpoundjump_effect","order":129,"path":"sprites/spr_groundpoundjump_effect/spr_groundpoundjump_effect.yy",},
     {"name":"spr_gusbrickcloud","order":213,"path":"sprites/spr_gusbrickcloud/spr_gusbrickcloud.yy",},
     {"name":"bg_pizzaface_p3_sky1","order":13,"path":"sprites/bg_pizzaface_p3_sky1/bg_pizzaface_p3_sky1.yy",},
