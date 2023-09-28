@@ -5629,6 +5629,7 @@
     {"name":"spr_nextfloor","order":39,"path":"sprites/spr_nextfloor/spr_nextfloor.yy",},
     {"name":"spr_bananacollect","order":4,"path":"sprites/spr_bananacollect/spr_bananacollect.yy",},
     {"name":"spr_car_solid","order":50,"path":"sprites/spr_car_solid/spr_car_solid.yy",},
+    {"name":"tile_towerssold","order":5,"path":"sprites/tile_towerssold/tile_towerssold.yy",},
     {"name":"spr_arenagate_open","order":200,"path":"sprites/spr_arenagate_open/spr_arenagate_open.yy",},
     {"name":"spr_fakepeppino_machwalldown","order":28,"path":"sprites/spr_fakepeppino_machwalldown/spr_fakepeppino_machwalldown.yy",},
     {"name":"spr_arenagate_opened","order":201,"path":"sprites/spr_arenagate_opened/spr_arenagate_opened.yy",},
