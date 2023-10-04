@@ -2500,6 +2500,7 @@
     {"id":{"name":"cutscene_space","path":"scripts/cutscene_space/cutscene_space.yy",},},
     {"id":{"name":"scr_player_shotgunshoot","path":"scripts/scr_player_shotgunshoot/scr_player_shotgunshoot.yy",},},
     {"id":{"name":"cutscene_dungeon_end","path":"scripts/cutscene_dungeon_end/cutscene_dungeon_end.yy",},},
+    {"id":{"name":"ruinsnick_4","path":"rooms/ruinsnick_4/ruinsnick_4.yy",},},
     {"id":{"name":"scr_player_tube","path":"scripts/scr_player_tube/scr_player_tube.yy",},},
     {"id":{"name":"scr_noiseboss_states","path":"scripts/scr_noiseboss_states/scr_noiseboss_states.yy",},},
     {"id":{"name":"scr_player_ratmount","path":"scripts/scr_player_ratmount/scr_player_ratmount.yy",},},
@@ -5280,7 +5281,6 @@
     {"id":{"name":"spr_version","path":"sprites/spr_version/spr_version.yy",},},
     {"id":{"name":"spr_warterminal","path":"sprites/spr_warterminal/spr_warterminal.yy",},},
     {"id":{"name":"bg_grindrail","path":"sprites/bg_grindrail/bg_grindrail.yy",},},
-    {"id":{"name":"tile_towerss","path":"sprites/tile_towerss/tile_towerss.yy",},},
     {"id":{"name":"spr_shuttleidle","path":"sprites/spr_shuttleidle/spr_shuttleidle.yy",},},
     {"id":{"name":"bg_castlewall","path":"sprites/bg_castlewall/bg_castlewall.yy",},},
     {"id":{"name":"spr_pizzasona26throw","path":"sprites/spr_pizzasona26throw/spr_pizzasona26throw.yy",},},
@@ -8226,6 +8226,7 @@
     {"roomId":{"name":"ruinsnick_3","path":"rooms/ruinsnick_3/ruinsnick_3.yy",},},
     {"roomId":{"name":"ruinsnick_3b","path":"rooms/ruinsnick_3b/ruinsnick_3b.yy",},},
     {"roomId":{"name":"ruinsnick_4b","path":"rooms/ruinsnick_4b/ruinsnick_4b.yy",},},
+    {"roomId":{"name":"ruinsnick_4","path":"rooms/ruinsnick_4/ruinsnick_4.yy",},},
   ],
   "templateType": null,
   "TextureGroups": [
