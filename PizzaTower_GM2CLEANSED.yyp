@@ -472,7 +472,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.1.102",
+    "IDEVersion": "2023.8.2.108",
   },
   "resources": [
     {"id":{"name":"obj_bossdoor","path":"objects/obj_bossdoor/obj_bossdoor.yy",},},
@@ -6724,6 +6724,7 @@
     {"id":{"name":"spr_medievaldeco","path":"sprites/spr_medievaldeco/spr_medievaldeco.yy",},},
     {"id":{"name":"spr_pizzahead_ratballstart","path":"sprites/spr_pizzahead_ratballstart/spr_pizzahead_ratballstart.yy",},},
     {"id":{"name":"spr_player_rageidle","path":"sprites/spr_player_rageidle/spr_player_rageidle.yy",},},
+    {"id":{"name":"kungfu_1","path":"rooms/kungfu_1/kungfu_1.yy",},},
     {"id":{"name":"spr_pigcitizen_tauntF","path":"sprites/spr_pigcitizen_tauntF/spr_pigcitizen_tauntF.yy",},},
     {"id":{"name":"ruinsnick_3b","path":"rooms/ruinsnick_3b/ruinsnick_3b.yy",},},
     {"id":{"name":"spr_achievement_graveyard","path":"sprites/spr_achievement_graveyard/spr_achievement_graveyard.yy",},},
@@ -7060,6 +7061,7 @@
     {"id":{"name":"bg_pizzaface1_2","path":"sprites/bg_pizzaface1_2/bg_pizzaface1_2.yy",},},
     {"id":{"name":"spr_spaceblock_open","path":"sprites/spr_spaceblock_open/spr_spaceblock_open.yy",},},
     {"id":{"name":"spr_boss_vulnerable","path":"sprites/spr_boss_vulnerable/spr_boss_vulnerable.yy",},},
+    {"id":{"name":"kungfu_2","path":"rooms/kungfu_2/kungfu_2.yy",},},
     {"id":{"name":"spr_boxxedpep_dash","path":"sprites/spr_boxxedpep_dash/spr_boxxedpep_dash.yy",},},
     {"id":{"name":"spr_totemcloud_idle","path":"sprites/spr_totemcloud_idle/spr_totemcloud_idle.yy",},},
     {"id":{"name":"spr_supermetalblock","path":"sprites/spr_supermetalblock/spr_supermetalblock.yy",},},
@@ -8227,6 +8229,8 @@
     {"roomId":{"name":"ruinsnick_3b","path":"rooms/ruinsnick_3b/ruinsnick_3b.yy",},},
     {"roomId":{"name":"ruinsnick_4b","path":"rooms/ruinsnick_4b/ruinsnick_4b.yy",},},
     {"roomId":{"name":"ruinsnick_4","path":"rooms/ruinsnick_4/ruinsnick_4.yy",},},
+    {"roomId":{"name":"kungfu_1","path":"rooms/kungfu_1/kungfu_1.yy",},},
+    {"roomId":{"name":"kungfu_2","path":"rooms/kungfu_2/kungfu_2.yy",},},
   ],
   "templateType": null,
   "TextureGroups": [
