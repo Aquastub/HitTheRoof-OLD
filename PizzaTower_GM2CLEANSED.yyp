@@ -459,6 +459,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Unused","folderPath":"folders/Tile Sets/Unused.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"War","folderPath":"folders/Tile Sets/War.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Unfunny Clowneroni","folderPath":"folders/Rooms/HitTheRoof/Levels/Unfunny Clowneroni.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"credits.txt","CopyToMask":-1,"filePath":"datafiles",},
@@ -6564,6 +6565,7 @@
     {"id":{"name":"spr_pizzahead_beatdown6","path":"sprites/spr_pizzahead_beatdown6/spr_pizzahead_beatdown6.yy",},},
     {"id":{"name":"spr_hillbilly_blood","path":"sprites/spr_hillbilly_blood/spr_hillbilly_blood.yy",},},
     {"id":{"name":"spr_64x64cutoff","path":"sprites/spr_64x64cutoff/spr_64x64cutoff.yy",},},
+    {"id":{"name":"clown_1","path":"rooms/clown_1/clown_1.yy",},},
     {"id":{"name":"spr_tv_combobubble","path":"sprites/spr_tv_combobubble/spr_tv_combobubble.yy",},},
     {"id":{"name":"spr_tv_firemouthN","path":"sprites/spr_tv_firemouthN/spr_tv_firemouthN.yy",},},
     {"id":{"name":"spr_pizzasona53trans","path":"sprites/spr_pizzasona53trans/spr_pizzasona53trans.yy",},},
@@ -8231,6 +8233,7 @@
     {"roomId":{"name":"ruinsnick_4","path":"rooms/ruinsnick_4/ruinsnick_4.yy",},},
     {"roomId":{"name":"kungfu_1","path":"rooms/kungfu_1/kungfu_1.yy",},},
     {"roomId":{"name":"kungfu_2","path":"rooms/kungfu_2/kungfu_2.yy",},},
+    {"roomId":{"name":"clown_1","path":"rooms/clown_1/clown_1.yy",},},
   ],
   "templateType": null,
   "TextureGroups": [

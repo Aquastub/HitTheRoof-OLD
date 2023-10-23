@@ -388,6 +388,7 @@
     {"name":"Unused","order":24,"path":"folders/Tile Sets/Unused.yy",},
     {"name":"War","order":22,"path":"folders/Tile Sets/War.yy",},
     {"name":"Timelines","order":19,"path":"folders/Timelines.yy",},
+    {"name":"Unfunny Clowneroni","order":6,"path":"folders/Rooms/HitTheRoof/Levels/Unfunny Clowneroni.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_bossdoor","order":10,"path":"objects/obj_bossdoor/obj_bossdoor.yy",},
